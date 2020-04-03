@@ -100,7 +100,7 @@ def affineTransformation(inputPath, outputPath, a1 ,a2 , a3, a4, a5, a6):
 
     #save the output image to the given file path
     plt.imshow(inImage, cmap="gray")
-    plt.savefig(outputPath)
+    plt.imsave(outputPath,inImage, cmap='gray')
 
 #main
 if __name__ == "__main__":
