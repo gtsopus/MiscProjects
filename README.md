@@ -1,1 +1,3 @@
-Every folder is a different exercise set. More info inside.
+ΤΣΟΠΟΥΡΙΔΗΣ ΓΡΗΓΟΡΙΟΣ
+ΑΜ : 3358
+ΕΤΟΣ : 4
