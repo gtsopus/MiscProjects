@@ -9,11 +9,14 @@
 
 4. warp.py - Apply perspective transformation to an image, by calculating the transformation matrix manually (task of the assignment), given 4 points clicked in by the user.
 
+5. cv_semantic.py - Uses the deeplab mobilenet with PASCAL VOC dataset in order to find the semantic segmantation of an image, get a specific layer output PCA it to 3 channel image (RGB) and show it and get a specific layer output, PCA it to 8 N x M x 8 data array and use kmeans to binarize it.
+
 ### Dependencies:
 (Number corresponds to the same file-number)
 1. TBA
 2. TBA
 3. TBA
 4. TBA
+5. TBA
 
 Made by: Grigorios Tsopouridis
