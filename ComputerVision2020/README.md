@@ -13,10 +13,12 @@
 
 ### Dependencies:
 (Number corresponds to the same file-number)
-1. TBA
-2. TBA
-3. TBA
-4. TBA
-5. TBA
+1. numpy, matplotlib, Pillow
+2. numpy, matplotlib, Pillow
+3. numpy, matplotlib, Pillow
+4. numpy, matplotlib, Pillow, cv2
+5. numpy, sklearn, tensorflow, deeplab, matplotlib, six.moves, Pillow
 
-Made by: Grigorios Tsopouridis
+Made by: Grigorios Tsopouridis,
+All credits of imported libraries/models go to their respective owners.
+Deeplab code modeled after the deeplab_demo notebook.
