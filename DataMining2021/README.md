@@ -1,6 +1,7 @@
 # Datamining-2020
 
-Selected mini projects from datamining course taught by Professor Panayiotis Tsaparas and made in collaboration with fellow classmate G.Tsopouridis (https://github.com/gtsopus).
+Selected mini projects from datamining course taught by Professor Panayiotis Tsaparas during the academic year of 2020-2021 at CSE, University of Ioannina.
+Made in collaboration with fellow classmate P.Papachristou (https://github.com/ppapahr).
 
 ## Contents
 
